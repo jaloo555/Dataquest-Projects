@@ -3,3 +3,7 @@ This repo contains all my work for Dataquest's Data Scientist Track. These proje
 ## Projects
 
 ### Project #1: [Profitable App Profiles on App Store and Google Play](https://github.com/jaloo555/Dataquest-Projects/blob/master/Profitable_apps_analysis/Basics.ipynb)
+Concepts Learned: 
+- data cleaning and analysis, frequency tables
+Functions Learned: 
+- csv.reader(), sorted()
